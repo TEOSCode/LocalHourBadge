@@ -36,7 +36,7 @@ input color             InpBgColor         = clrBlack;                 // Color 
 input color             InpBorderColor     = clrDarkGray;              // Color del borde
 input int               InpFontSize        = 9;                        // Tamaño de fuente
 input string            InpFontName        = "Arial";               // Fuente (Monospaced recomendada)
-input int               InpYOffsetPixels   = 8;                       // Distancia desde el borde inferior (px)
+input int               InpYOffsetPixels   = 10;                       // Distancia desde el borde inferior (px)
 
 //--- Nombres de Objetos
 #define OBJ_BG_NAME   "CustomCH_Time_BG"
